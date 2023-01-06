@@ -9,7 +9,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 nav ul {
@@ -48,7 +48,7 @@ nav-title {
     background-image: url(../header_bg.png), url(../developer.png);
     background-repeat: no-repeat;
     background-position: bottom right, left;
-    background-size: 600px, 100px 600px;
+    background-size: 600px, 100px 700px;
 }
 
 .banner {
